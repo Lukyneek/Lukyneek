@@ -1,6 +1,6 @@
 ## <h1 align="center">Hello there 👋, I'm Lucas :P</h1>
 <h3 align="center">You can find here anything you want, but you don't need.</h3>
-![jumping-cat](https://private-user-images.githubusercontent.com/74038190/238200844-87b72768-3740-4648-b118-c3164ff654cd.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAwNjE1MzMsIm5iZiI6MTc0MDA2MTIzMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDQtODdiNzI3NjgtMzc0MC00NjQ4LWIxMTgtYzMxNjRmZjY1NGNkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjIwVDE0MjAzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFhNmE4ODFhZjFlMTk1YjUwZjY5MGRlMDEyY2E4ODk4M2FjZDE3ZDVmMzg2NzA2YmQ0MDljYmE5ZjE0MzllYTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sEjCn-Zk4jAgPOfiH_YeK8cjL3j7ZeZCHR5VzSTR7a8)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_piskacek_lukas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_piskacek_lukas_" height="30" width="40" /></a>
